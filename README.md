@@ -1,7 +1,6 @@
 # Encapsulamiento-funcional
 
-Mini Turtle es un paquete en Python que simula el movimiento de una tortuga usando únicamente texto en consola, sin gráficos ni librerías externas.
-El proyecto está diseñado para practicar modularización, uso de paquetes y exposición de una interfaz limpia mediante __init__.py.
+El encapsulamiento funcional se logra al aislar la lógica interna del programa dentro de un módulo, mientras que el archivo __init__.py actúa como interfaz pública, exponiendo únicamente las funciones necesarias para el usuario. De esta forma, se ocultan los detalles de implementación y se facilita el uso del paquete.
 
 ## Funciones Disponibles
 
@@ -35,4 +34,6 @@ Reinicia la posición horizontal de la tortuga al valor inicial.
 └── paquete/
     ├── __init__.py
     └── logic.py
+```
+leld
 
