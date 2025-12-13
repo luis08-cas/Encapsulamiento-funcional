@@ -35,5 +35,10 @@ Reinicia la posición horizontal de la tortuga al valor inicial.
     ├── __init__.py
     └── logic.py
 ```
+## 📷 Ejemplo de ejecución
+
+<img width="344" height="491" alt="Captura de pantalla 2025-12-12 203800" src="https://github.com/user-attachments/assets/32347a8c-9879-4f18-9359-8be8495c8f4c" />
+
+
 
 
