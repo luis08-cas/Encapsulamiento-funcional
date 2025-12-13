@@ -13,3 +13,26 @@ Dibuja el movimiento vertical hacia abajo manteniendo la posición horizontal ac
 
 - reiniciar()
 Reinicia la posición horizontal de la tortuga al valor inicial.
+
+## Objetivo del Proyecto
+
+- Comprender el concepto de encapsulamiento
+
+- Aplicar modularización del código
+
+- Separar la lógica del programa de su interfaz
+
+- Facilitar la reutilización de funciones
+
+- Practicar el uso de paquetes en Python
+
+  ## Estructura aplicada
+
+``` python
+  Encapsulamiento-funcional/
+│
+├── main.py
+└── paquete/
+    ├── __init__.py
+    └── logic.py
+
