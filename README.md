@@ -31,7 +31,7 @@ Reinicia la posición horizontal de la tortuga al valor inicial.
   Encapsulamiento-funcional/
 │
 ├── main.py
-└── paquete/
+└── mini_turtle/
     ├── __init__.py
     └── logic.py
 ```
